@@ -7,7 +7,7 @@ I like turning messy, real-world biomedical and clinical data into pipelines peo
 ---
 
 **🧠 [eeg-motor-imagery-bci](https://github.com/agatastachowiak/eeg-motor-imagery-bci)**
-End-to-end EEG motor imagery classification pipeline (MNE-Python) comparing CSP+SVM against an EEGNet-style CNN across 10 and 50 subjects. Within-subject decoding reached ~87% accuracy vs. ~53% pooled — a finding consistent with BCI illiteracy literature.
+End-to-end EEG motor imagery classification pipeline (MNE-Python) comparing CSP+SVM against an EEGNet-style CNN across 10 and 50 subjects. Within-subject decoding reached ~87% accuracy vs. ~53% pooled, a finding consistent with BCI illiteracy literature.
 
 **⌚ [wearable-stress-detection](https://github.com/agatastachowiak/wearable-stress-detection)**
 Stress detection from wrist-worn EDA/BVP/TEMP/ACC data (WESAD dataset). Physiologically-derived HRV features substantially outperformed raw statistics. Deployed as a live app: [wearable-stress-detection-app.streamlit.app](https://wearable-stress-detection-app.streamlit.app)
